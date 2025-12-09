@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_DangXuanDuc_21103101079", "WebAPI_DangXuanDuc_21103101079.csproj", "{34E0E589-C524-4137-9F38-A22AE944224A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient_DangXuanDuc_21103101079", "..\WebClient_DangXuanDuc_21103101079\WebClient_DangXuanDuc_21103101079.csproj", "{03E9A959-68FA-48EB-96A1-C7356BD76BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E0E589-C524-4137-9F38-A22AE944224A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E0E589-C524-4137-9F38-A22AE944224A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E0E589-C524-4137-9F38-A22AE944224A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E0E589-C524-4137-9F38-A22AE944224A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E9A959-68FA-48EB-96A1-C7356BD76BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E9A959-68FA-48EB-96A1-C7356BD76BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E9A959-68FA-48EB-96A1-C7356BD76BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E9A959-68FA-48EB-96A1-C7356BD76BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853E58FD-7389-4D6A-A3C0-F358993C4B57}
+	EndGlobalSection
+EndGlobal
